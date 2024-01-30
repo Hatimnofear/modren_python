@@ -1,1 +1,7 @@
+numpy
+panda
+jupyter
 mypy
+python-dotenv
+openai
+pylance
