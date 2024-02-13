@@ -165,3 +165,4 @@ Python lists come with a set of built-in methods:
 - `sort()`: Sorts the list.
 
 For more details and examples on each method, refer to the [official Python documentation](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists).
+
